@@ -89,7 +89,7 @@ const Add = ({url}) => {
           <div className="add-category flex-col">
             <p>Product category</p>
             <select onChange={onChangeHandler} name="category">
-              <option value="Salad">Salad</option>
+              <option value="Salad">Seblak</option>
               <option value="Rolls">Rolls</option>
               <option value="Desert">Desert</option>
               <option value="Sandwich">Sandwich</option>
