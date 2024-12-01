@@ -9,6 +9,11 @@
     width: max(10%,80px);
 }
 
+.navbar p{
+    color: tomato;
+    font-weight: 700;
+    font-size: 38px;
+}
 .navbar .profile{
     width: 40px;
 }
